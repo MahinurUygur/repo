@@ -5,4 +5,4 @@
 
 *09.11.2023*
 
-This is where the example **modified** in github
+This example had **modified** in github
